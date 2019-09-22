@@ -1,0 +1,18 @@
+.Heading {
+    padding: 40px;
+    background-color: #000000;
+    color: white;
+    font-size: 200%;
+}
+
+#MainText {
+    width: 50%;
+}
+
+#textbtn {
+    color: #ffffff;
+}
+
+#headerActionBar {
+    text-align: right;
+}
